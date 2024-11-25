@@ -1,0 +1,99 @@
+/*estilos para body*/
+
+body{
+    background-color:#a9eae5;
+    font-family:Arial, Helvetica, sans-serif
+    
+}
+
+header{
+    background-color:#10abab;
+    border-radius:10px;
+    color:white;
+}
+
+
+p{
+  font-weight:bold;  
+  background-color:yellow;
+  border-radius:20pxpx;
+}
+
+.perfil_1{
+    width:25%;
+    height:30%;
+    border-radius:100px;
+    border:10px solid orange;
+}
+
+/*estilos de Sesion 4*/
+ol {
+    list-style-type:decimal;
+}
+
+
+ul {
+    list-style-type: circle;
+}
+
+dl {
+ font-style: oblique;
+
+}
+
+
+.Linux {
+    list-style-type: lower-roman;
+}
+.ARM {
+    list-style-type: lower-alpha;
+}
+
+
+/* sesion de la tabla*/
+
+table {
+    border-collapse: 40px;
+    width: 100;
+    color:blue;    
+    padding: 150px;
+    border-spacing: 5px;
+}
+
+tr, td, th {
+    border: 1px solid rgb(1, 5, 2);
+    padding: 7px;
+    text-align: center;
+    background-color:white;
+    width: 200px;
+    height: 80px;
+    border-radius:10px;
+
+}
+
+.td1{
+    color:brown;
+}
+
+
+/* ESTILOS DE LA SESION 5 */
+
+.Genero{
+
+     display: inline ;
+     margin: 10px auto;
+
+}
+
+fieldset{
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+/*Abreviatura de lista desplegable*/ /*div>select>optg*2>option*3*/
+
+
+
+
+
